@@ -1,0 +1,1 @@
+[GREETING] [NAME], nice to meet you :)
